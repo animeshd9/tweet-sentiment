@@ -5,10 +5,10 @@ import preprocessor as p
 import re
 from textblob import TextBlob
 
-consumer_key='C46BP2JxauRdrHK7Zi7NixO6e'
-consumer_secret='83lZCupdLjc7xWam1v7CP5LmEm80dW50yz4JPpWA74NNw8965U'
-access_key='912685468117999616-jDWNbhwtkbsMlJa8BL6Do514Rmob9xY'
-access_secret='mSKP29Dh3T763DNWEzx3P2MusrSrGempkI9eeCKE0JuZy'
+consumer_key=''
+consumer_secret=''
+access_key=''
+access_secret=''
 
 
 def auth():
